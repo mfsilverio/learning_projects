@@ -12,6 +12,7 @@
 # perguntar se quer jogar novamente
 # -----------------------------
 jogadas = [0, 1, 2]
+# jogadas = []
 # jogadas.append(str("pedra"))
 # jogadas.append(str("papel"))
 # jogadas.append(str("tesoura"))

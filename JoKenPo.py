@@ -38,11 +38,11 @@ while continuar == "S":
     print("-" * 31)
 
     print(jogador1, ", escolha uma jogada: ")
-    jogada1 = int(input("Qual a sua jogada?"))
+    jogada1 = int(input("Qual a sua jogada? "))
     print("-" * 31)
 
     print(jogador2, ", escolha uma jogada: ")
-    jogada2 = int(input("Qual a sua jogada?"))
+    jogada2 = int(input("Qual a sua jogada? "))
     print("-" * 31)
 
     if jogada1 == jogadas[0] and jogada2 == jogadas[0]:
